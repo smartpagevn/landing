@@ -9079,7 +9079,7 @@ https://github.com/givanz/VvvebJs
   .tree ol li.file {
     margin-left: -1px !important; }
     .tree ol li.file > label {
-      background: url(../libs/builder/icons/file.svg) 0px 0px no-repeat;
+      background: url(../icons/file.svg) 0px 0px no-repeat;
       background-size: 16px 16px;
       cursor: pointer;
       color: #333;
@@ -9101,8 +9101,8 @@ https://github.com/givanz/VvvebJs
     top: 0; }
     .tree ol li input + ol {
       background: url(../img/toggle-small-expand.png) 40px 0 no-repeat;
-      background: url(../libs/builder/icons/plus_round.svg) 40px 0px no-repeat;
-      background: url(../libs/builder/icons/arrow-down.svg) 42px 2px no-repeat;
+      background: url(./icons/plus_round.svg) 40px 0px no-repeat;
+      background: url(../icons/arrow-down.svg) 42px 2px no-repeat;
       background-size: 10px 10px;
       margin: -1.5em 0 0 -44px;
       /* 15px */
@@ -9113,8 +9113,8 @@ https://github.com/givanz/VvvebJs
         margin-left: -14px !important;
         padding-left: 1px; }
   .tree ol li label {
-    background: url(../libs/builder/icons/folder.svg) 15px 1px no-repeat;
-    background: url(../libs/builder/icons/file.svg) 12px 0px no-repeat;
+    background: url(../icons/folder.svg) 15px 1px no-repeat;
+    background: url(../icons/file.svg) 12px 0px no-repeat;
     background-size: 18px 18px;
     cursor: pointer;
     display: block;
@@ -9123,8 +9123,8 @@ https://github.com/givanz/VvvebJs
     font-size: 12px; }
   .tree ol li input:checked + ol {
     background: url(../img/toggle-small.png) 40px 5px no-repeat;
-    background: url(../libs/builder/icons/minus_round.svg) 40px 5px no-repeat;
-    background: url(../libs/builder/icons/arrow-right.svg) 54px 0px no-repeat;
+    background: url(../icons/minus_round.svg) 40px 5px no-repeat;
+    background: url(../icons/arrow-right.svg) 54px 0px no-repeat;
     background-size: 10px 10px;
     margin: -1.65em 0 0 -44px;
     /* 20px */
